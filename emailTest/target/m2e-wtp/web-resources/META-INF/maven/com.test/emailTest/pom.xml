@@ -73,6 +73,8 @@
 		 <artifactId>javax.mail</artifactId>
 		 <version>1.5.6</version>
 		 </dependency>
+		 <!-- 메일관련 -->
+		 
 		
 		<dependency>
 			<groupId>log4j</groupId>
